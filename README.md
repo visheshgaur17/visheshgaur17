@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=200&section=header&text=Vishesh%20Gaur&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20BI%20%26%20ML%20Enthusiast&descAlignY=65&descSize=20)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishesh+Gaur;Data+Analyst+%7C+BI+Analyst;Turning+Data+Into+Decisions" alt="Typing SVG" />
@@ -57,10 +57,7 @@ An end-to-end analytics pipeline combining stock market data, real news sentimen
 
 ### 📈 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visheshgaur17&show_icons=true&theme=default&hide_border=true&bg_color=F0F9FF&title_color=0EA5E9&icon_color=0EA5E9" alt="Vishesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshgaur17&layout=compact&hide_border=true&bg_color=F0F9FF&title_color=0EA5E9" alt="Top Languages" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshgaur17&theme=default&hide_border=true&background=F0F9FF&ring=0EA5E9&fire=0EA5E9" alt="GitHub Streak" />
