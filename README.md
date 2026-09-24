@@ -1,4 +1,12 @@
-# Hi 👋, I'm Vishesh Gaur
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=200&section=header&text=Vishesh%20Gaur&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20BI%20%26%20ML%20Enthusiast&descAlignY=65&descSize=20)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishesh+Gaur;Data+Analyst+%7C+BI+Analyst;Turning+Data+Into+Decisions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=visheshgaur17&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
 ### 📊 Data Analyst | BI Analyst | Process Analyst
 
@@ -15,6 +23,16 @@ I turn complex datasets into actionable business insights, interactive dashboard
 
 ---
 
+### 🌟 Featured Project
+
+**[Stock Market ML & Sentiment Dashboard](https://github.com/visheshgaur17/stock-market-ml-sentiment-dashboard)**
+
+An end-to-end analytics pipeline combining stock market data, real news sentiment (Finnhub API), and machine learning predictions (Random Forest vs. baseline), visualized in a 4-page Power BI dashboard with dynamic role-based access.
+
+`Python` `SQLite` `Power BI` `scikit-learn` `Finnhub API`
+
+---
+
 ### 🛠️ Languages & Tools
 
 **Data & Analytics:**
@@ -23,6 +41,8 @@ I turn complex datasets into actionable business insights, interactive dashboard
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Business Intelligence & Dashboards:**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -38,13 +58,18 @@ I turn complex datasets into actionable business insights, interactive dashboard
 ### 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visheshgaur17&show_icons=true&theme=sky&count_private=true" alt="Vishesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshgaur17&layout=compact&theme=sky" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=visheshgaur17&show_icons=true&theme=default&hide_border=true&bg_color=F0F9FF&title_color=0EA5E9&icon_color=0EA5E9" alt="Vishesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshgaur17&layout=compact&hide_border=true&bg_color=F0F9FF&title_color=0EA5E9" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshgaur17&theme=default&hide_border=true&background=F0F9FF&ring=0EA5E9&fire=0EA5E9" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-gilt-two-32.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-gaur-ba2935226/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visheshgaur276@gmail.com)
